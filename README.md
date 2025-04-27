@@ -1,1 +1,1 @@
-# Anecdotes-plugin
+# Dummy plugin
